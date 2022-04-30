@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer utilities {
+  .text-green-500 {
+    color: #48a14d;
+  }
+
+  .text-gray-600 {
+    color: #7B7B7C;
+  }
+}
